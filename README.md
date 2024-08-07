@@ -1,16 +1,17 @@
 # Week4tut
 
 
-## Angular Commands
-* npm install -g @angular/cli
+## Angular (in node) Commands
 * ng new week4tut
-* npm install bootstrap --save
 * ng generate component "login"
 * ng generate component "account"
 * ng serve --open
 
+## Npm (install madules) Commands
+* npm install -g @angular/cli
+* npm install bootstrap --save
 
-## Git Commands
+## GIT Commands
 * git init
 * git add -A
 * git commit -m "Week 4 Tutorial Setup"
